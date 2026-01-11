@@ -1,0 +1,3 @@
+include README.md
+include LICENSE
+include evt_parser/py.typed
